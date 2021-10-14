@@ -1,0 +1,2 @@
+servidor
+C:\Users\Positivo\Desktop\xampp\xampp\htdocs

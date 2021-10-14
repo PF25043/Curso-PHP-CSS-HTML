@@ -1,0 +1,30 @@
+editor de texto
+C:\Program Files\Sublime Text 3
+
+/
+++++++++CODIGO DAS CORES++++++++++
+http://www.erikasarti.com/html/tabela-cores/
+
+++++++++DIVULGANDO O SITE+++++++++++
+000webhost
+ptfernandes0306@gmail.com
+98848010.wH
+
+Nome do rojeto
+futuroptbf
+98848010.wH
+
+banco de dados
+senha
+98848010.wH123456
+Nome da DB	
+id17538832_cadastro	
+Usuário DB	
+id17538832_usuarios	
+Hospedagem de DB
+localhost
+++++++++++MYSQL+++++++++++
+
+
+CONEXÃO.PHP
+
